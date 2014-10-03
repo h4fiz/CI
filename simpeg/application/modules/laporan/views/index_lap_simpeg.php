@@ -1,0 +1,1 @@
+<iframe width="100%" style="height:500px;" src="http://localhost/simpeg_me/index.php/lap_simpeg"></iframe>

@@ -1,0 +1,38 @@
+.btn-edit1 {
+	float: right;
+	margin-top: 10px;
+	width: 100%;
+}
+
+.input-modals {
+	margin-bottom: 5px;
+}
+
+.input-col2 {
+	width:20%;
+}
+
+.input-col3 {
+	width:30%;
+}
+.input-col4 {
+	width:40%;
+}
+
+.input-col5 {
+	width:50%;
+}
+
+.input-col6 {
+	width:60%;
+}
+
+.input-col7 {
+	width:70%;
+}
+
+.input-col8 {
+	width:80%;
+}
+
+.datepicker{z-index:1151 !important;}
